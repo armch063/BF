@@ -1,1 +1,3 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/KINGSCRIPTDEV/1XLIIHUB/main/README.md"))()
+
+loadstring(game:HttpGet("https://github.com/armch063/BF/files/8851986/1_Cavender_hub_en.txt
+"))()
